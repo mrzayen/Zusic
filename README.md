@@ -18,6 +18,8 @@
   <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" width="30%" />
 </p>
 
+-->
+
 ## Features
 
 - Play (almost) any song or video from YouTube Music
@@ -34,7 +36,8 @@
 - Listen from your car using Android Auto
 - Open YouTube/YouTube Music links (`watch`, `playlist`, `channel`, etc.) with ViTune
 - Ridiculously lightweight APK
-
+- 
+<!--
 ## Installation
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
@@ -51,7 +54,7 @@ align="center">](https://repo.vitune.app/)
 alt="Get it on Obtainium"
 height="54"
 align="center">](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViTune/)
-
+-->
 ## Acknowledgments
 
 - [**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients): A Python
@@ -68,5 +71,3 @@ way associated with YouTube, Google LLC or any of its affiliates and subsidiarie
 
 Any trademark, service mark, trade name, or other intellectual property rights used in this project
 are owned by the respective owners.
-
--->
